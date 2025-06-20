@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-dashboard-app',
-  imports: [],
+  imports: [ RouterOutlet ],
   templateUrl: './dashboard-app.component.html'
 })
 export default class DashboardAppComponent { }
