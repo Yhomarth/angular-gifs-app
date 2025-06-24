@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  companyName: 'Giphy',
+  companyName: 'Giphsy',
   companyName2: 'App',
   companySlogan: 'Gifs para todos',
 
